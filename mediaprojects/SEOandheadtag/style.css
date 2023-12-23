@@ -1,0 +1,42 @@
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    text-align: left;
+    /* border-radius: 50%; */
+     /* padding: 25px;
+     margin: 25px;
+ */
+ /* *{
+    padding: 0;
+    margin: 0;
+ }
+ #navbar{
+    height: 60px;
+    background-color: #0f1110;
+
+ }
+ button{
+    background-color: #f08804;
+
+ }
+ #logo{
+    background-color: #f08804;
+    font-size: 25px;
+ }
+ a{
+    margin-right: 200px;
+   
+ } */
+ .outer{
+   height: 500px;
+   width: 400px ;
+   background-color: brown;
+   /* display:flex */
+ }
+ .inner{
+   height: 500px;
+   width: 400px ;
+   background-color: darkcyan;
+ }
